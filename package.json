@@ -1,0 +1,39 @@
+{
+  "name": "hacktuah",
+  "version": "0.0.1",
+  "description": "Gen Z-inspired try/catch block and logging utility for JavaScript and TypeScript developers.",
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "index.js",
+    "modules/",
+    "types/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gen Z",
+    "JavaScript",
+    "TypeScript",
+    "try-catch",
+    "error-handling",
+    "logging",
+    "console",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Edartruwu/hacktuah.git"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edartruwu/hacktuah/issues"
+  },
+  "homepage": "https://github.com/Edartruwu/hacktuah#readme",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
