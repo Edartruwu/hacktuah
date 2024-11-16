@@ -1,6 +1,6 @@
 {
   "name": "hacktuah",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gen Z-inspired try/catch block and logging utility for JavaScript and TypeScript developers.",
   "main": "index.js",
   "types": "types/index.d.ts",
